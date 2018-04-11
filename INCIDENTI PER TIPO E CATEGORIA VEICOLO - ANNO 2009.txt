@@ -1,0 +1,11 @@
+INCIDENTI A VEICOLI ISOLATI;Autovetture private e pubbliche;Autobus e filobus; Tram;Autocarri autotreni autosnodati e simili;Velocipedi;Ciclomotori;Motocicli;Motocarri e motofurgoni;Quadricicli leggeri;Altri veicoli;INCIDENTI TRA VEICOLI;Autovetture private e pubbliche;Autobus e filobus;Tram;Autocarri autotreni autosnodati e simili;Velocipedi;Ciclomotori;Motocicli;Motocarri e motofurgoni;Quadricicli leggeri;Altri veicoli;;;
+Investimento di pedone;141;6; - ;6;3;23;60; - ;1;2;Autovetture private e pubbliche;615;11; - ;26; - ;31;111; - ;1;1;;;
+Urto con veicolo in sosta;25; - ; - ; - ; - ;4;10; - ; - ; - ;Autobus e filobus;10;1; - ; - ; - ; - ;1; - ; - ; - ;;;
+Urto con ostacolo accidentale;62; - ; - ;1;2;9;36;1;2; - ;Tram;1; - ; - ; - ; - ; - ; - ; - ; - ; - ;;;
+Urto con treno; - ; - ; - ; - ; - ; - ; - ; - ; - ; - ;Autocarri, autotreni, autosnodati e simili;35;1; - ;3; - ;3;8; - ; - ; - ;;;
+Fuoriuscita;66; - ; - ;1; - ;11;65; - ;1; - ;Velocipedi;25;1; - ;3; - ;3;9; - ; - ; - ;;;
+Frenata improvvisa; - ; - ; - ; - ; - ;1;4; - ; - ; - ;Ciclomotori;182;1; - ;8;1;7;10; - ;1;2;;;
+Caduta da veicolo;1; - ; - ; - ; - ;7;24; - ; - ; - ;Motocicli;714;10; - ;27; - ;17;72;2;3; - ;;;
+;;;;;;;;;;;Motocarri e motofurgoni;4; - ; - ; - ; - ; - ;3; - ; - ; - ;;;
+;;;;;;;;;;;Quadricicli leggeri;5; - ; - ; - ; - ; - ; - ; - ; - ; - ;;;
+;;;;;;;;;;;Altri veicoli;1; - ; - ; - ; - ;1;12; - ;1; - ;;;
